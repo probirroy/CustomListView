@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Custom ListView</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Names -->
+    <string-array name="Member_names">
+        <item>Litan Das</item>
+        <item>Nekhil Halder</item>
+        <item>Probir Roy</item>
+        <item>Rabby Mosharrf</item>
+        <item>Rajib Ahamed</item>
+        <item>Sajib Ahamed</item>
+        <item>Samir Halder</item>
+        <item>Jibon Halder</item>
+        <item>Laxman Halder</item>
+    </string-array>
+
+    <!-- Pictures -->
+    <array name="profile_pics">
+        <item>@drawable/litan</item>
+        <item>@drawable/nekhil</item>
+        <item>@drawable/probir</item>
+        <item>@drawable/rabby</item>
+        <item>@drawable/rajib</item>
+        <item>@drawable/sajib</item>
+        <item>@drawable/samir</item>
+        <item>@drawable/jibon</item>
+        <item>@drawable/laxman</item>
+    </array>
+
+    <!-- Status -->
+    <string-array name="statues">
+        <item>Blogging</item>
+        <item>Available</item>
+        <item>Busy</item>
+        <item>In a meeting</item>
+        <item>At work</item>
+        <item>At gym</item>
+        <item>In a market</item>
+        <item>At city</item>
+        <item>At dubai</item>
+    </string-array>
+
+    <!-- contact type -->
+    <string-array name="contactType">
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Mobile</item>
+        <item>Mail</item>
+        <item>Phone</item>
+        <item>Mobile</item>
+    </string-array>
+
+
+
+</resources>
